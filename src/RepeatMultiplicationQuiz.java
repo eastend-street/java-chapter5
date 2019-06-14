@@ -15,6 +15,6 @@ public class RepeatMultiplicationQuiz {
 			answer = input.nextInt();
 		}
 		
-		System.out.println("You got it!");
+		System.out.println();
 	}
 }
